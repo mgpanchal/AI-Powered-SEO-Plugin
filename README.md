@@ -36,5 +36,5 @@ This plugin is licensed under the **GPL v3**. See [LICENSE](LICENSE) for details
 For issues and feature requests, please open an issue on the GitHub repository.
 
 ---
-**Author:** Your Name  
-**Website:** [example.com](https://example.com)
+**Author:** Mangesh Panchal
+**Website:** [mgpanchal.com](https://mgpanchal.com)
